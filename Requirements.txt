@@ -1,1 +1,6 @@
-
+requirements/goals
+* Create initial Python game structure using Pygame.
+* Implement main game loop and terminal-style interface.
+* Add random four-digit code generation.
+* Implement guess validation and feedback system.
+* Add attempt tracking and win/loss conditions.
